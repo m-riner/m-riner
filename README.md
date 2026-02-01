@@ -24,7 +24,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=repo-ranger-source.repo-ranger-source)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=m-riner.m-riner)
 
 ### 🐍 GitHub Contribution Snake
-![GitHub Snake Light](https://github.com/repo-ranger-source/repo-ranger-source/blob/gh-pages/github-snake-dark.svg)
+![GitHub Snake Light](https://github.com/m-riner/m-riner/blob/gh-pages/github-snake-dark.svg)
