@@ -18,8 +18,8 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 ![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberry-pi)
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=black)
+![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=black)
 
 
 ### 📈 Monitoring & Security
