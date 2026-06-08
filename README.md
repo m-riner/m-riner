@@ -14,7 +14,6 @@
 
 ### ⚙️ SysAdmin
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Microsoft](https://img.shields.io/badge/-Exchange-black?style=flat-square&logo=microsoft)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 ![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
