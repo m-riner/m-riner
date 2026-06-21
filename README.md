@@ -21,7 +21,7 @@
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=black)
 ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=black)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-[![Veeam](https://img.shields.io/badge/Veeam-Backup-green)]
+![Veeam](https://img.shields.io/badge/Veeam-Backup-green)
 
 
 ### Monitoring & Security
